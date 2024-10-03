@@ -1,6 +1,6 @@
 const Facebook = () => {
   return (
-    <div className="">
+    <div>
       <div className=" flex justify-center translate-y-2 -translate-x-2">
         <svg
           xmlns="http://www.w3.org/2000/svg"
